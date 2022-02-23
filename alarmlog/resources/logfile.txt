@@ -1,0 +1,6 @@
+{"id":"567","timestamp":300500,"state":"STARTED","host":"123.168.12.190","type":"http"}
+{"id":"1234","timestamp":400900,"state":"FINISHED"}
+{"id":"1234","timestamp":300500,"state":"STARTED"}
+{"id":"987","timestamp":1000,"state":"STARTED"}
+{"id":"567","timestamp":400500,"state":"FINISHED"}
+{"id":"987","timestamp":1002,"state":"FINISHED"}
